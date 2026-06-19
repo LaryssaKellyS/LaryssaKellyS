@@ -1,6 +1,6 @@
 # Olá, eu sou a Laryssa! 👋
 
-Sou estudante de Tecnologias e Programação de Sistemas de Informação (CET Nível 5) em Guimarães, com uma bagagem anterior de 4 semestres em Engenharia de Software. O meu foco total está na criação de soluções robustas no **Back-End e Modelação de Bases de Dados**, assim meu objetivo é me tornar uma **Desenvolvedora Full-Stack!**
+Sou estudante de Tecnologias e Programação de Sistemas de Informação (CET Nível 5) em Guimarães, com uma bagagem anterior de 4 semestres em Engenharia de Software. O meu foco total está na criação de soluções robustas no **Back-End e Modelação de Bases de Dados**, assim o meu objetivo é tornar-me uma **Desenvolvedora Back-End focada em Engenharia de Dados!**
 
 Graças à minha experiência profissional anterior nos setores financeiro, contabilístico e industrial, trago uma facilidade enorme para entender regras de negócio complexas e traduzi-las diretamente em código eficiente e estruturas de dados relacionais.
 
