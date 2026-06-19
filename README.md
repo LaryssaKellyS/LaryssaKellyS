@@ -31,6 +31,4 @@ Graças à minha experiência profissional anterior nos setores financeiro, cont
 
 Se quiser partilhar ideias ou falar sobre oportunidades de estágio, sinta-se à vontade para me contactar:
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_O_LINK_DO_TEU_PERFIL_DO_LINKEDIN) [![GMAIL](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TEU_EMAIL_AQUI@GMAIL.COM)
-
----
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/laryssakelly-tech) [![GMAIL](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laryssakellydesouza@gmail.com)
