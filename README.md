@@ -31,7 +31,7 @@ Graças à minha experiência profissional anterior nos setores financeiro, cont
 
 ---
 
-## 📞 Vamos conversar?
+## 🤝 Vamos conversar?
 
 Se quiser partilhar ideias ou falar sobre oportunidades de estágio, sinta-se à vontade para me contactar:
 
