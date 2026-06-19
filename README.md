@@ -1,4 +1,9 @@
-# Olá, eu sou a Laryssa! 👋
+<div align="center">
+  <h1>LARYSSA KELLY</h1>
+  <p><b>Futura Desenvolvedora Back-End & Engenharia de Dados</b></p>
+</div>
+
+---
 
 Sou estudante de Tecnologias e Programação de Sistemas de Informação (CET Nível 5) em Guimarães, com uma bagagem anterior de 4 semestres em Engenharia de Software. O meu foco total está na criação de soluções robustas no **Back-End e Modelação de Bases de Dados**, assim o meu objetivo é tornar-me uma **Desenvolvedora Back-End focada em Engenharia de Dados!**
 
