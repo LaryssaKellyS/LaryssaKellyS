@@ -27,18 +27,10 @@ Graças à minha experiência profissional anterior nos setores financeiro, cont
 
 ---
 
-### 📞 Vamos conversar?
+## 📞 Vamos conversar?
 
 Se quiser partilhar ideias ou falar sobre oportunidades de estágio, sinta-se à vontade para me contactar:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laryssakelly-tech)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laryssakellydesouza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_O_LINK_DO_TEU_PERFIL_DO_LINKEDIN) [![GMAIL](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TEU_EMAIL_AQUI@GMAIL.COM)
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LaryssaKellyS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaryssaKellyS&layout=compact&langs_count=6&theme=dracula" />
-</p>
