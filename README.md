@@ -10,9 +10,9 @@ Graças à minha experiência profissional anterior nos setores financeiro, cont
 
 ### 💻 No que estou a trabalhar atualmente?
 * 🎓 Especialização tecnológica com foco em Engenharia de Software, Modelação de Dados e Desenvolvimento de Sistemas de Informação.
-* 🚀 Em fase de planeamento e desenvolvimento inicial do meu **Projeto Final de Curso**: um sistema integrado focado no ecossistema industrial, que vai além do controlo de stocks, englobando também a gestão e o sequenciamento do fluxo de produção.
+* ⚙️ Em fase de planeamento e desenvolvimento inicial do meu **Projeto Final de Curso**: um sistema integrado focado no ecossistema industrial, que vai além do controlo de stocks, englobando também a gestão e o sequenciamento do fluxo de produção.
 * 🛠️ Utilizando **PHP** para a lógica de back-end e **MySQL** para a modelação estruturada da base de dados corporativa.
-* 📊 Integrando **Python** na etapa analítica do sistema para manipulação de dados, automação e geração inteligente de gráficos e relatórios visuais de desempenho da produção.
+* 📈 Integrando **Python** na etapa analítica do sistema para manipulação de dados, automação e geração inteligente de gráficos e relatórios visuais de desempenho da produção.
 * 📍 Localizada em Felgueiras, Portugal.
 
 ---
